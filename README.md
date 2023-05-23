@@ -1,2 +1,0 @@
-# ejrcicio-de-numero
-numeros 
